@@ -1,2 +1,0 @@
-# .github
-https://hoof.ing
